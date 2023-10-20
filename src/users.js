@@ -1,0 +1,38 @@
+export const Users = [
+    {
+        "id":1,
+        "first_name":"Kapil",
+        "email":"kapilt749@gmail.com",
+        "dob":"24-08-2000",
+        "add":"Faridabad",
+    },
+    {
+        "id":2,
+        "first_name":"Krishna",
+        "email":"krishna@gmail.com",
+        "dob":"27-08-2001",
+        "add":"Mathura",
+    },
+    {
+        "id":3,
+        "first_name":"Puneet",
+        "email":"puneet@gmail.com",
+        "dob":"24-09-2000",
+        "add":"Delhi",
+    },
+    {
+        "id":4,
+        "first_name":"Rio",
+        "email":"rio@gmail.com",
+        "dob":"24-08-1900",
+        "add":"Canada",
+    },
+    {
+        "id":5,
+        "first_name":"Kanishka",
+        "email":"kanishka@gmail.com",
+        "dob":"17-08-2003",
+        "add":"Ballangarh",
+    }
+
+]
